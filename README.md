@@ -14,7 +14,7 @@ Tom & Jerry were selected as the inspiration for this language model due to thei
 <li>Humor-Driven Engagement – Tom & Jerry’s slapstick humor and visual storytelling make content more entertaining and shareable, crucial for viral marketing campaigns.</li>
 </ol>
 
-To assess the efficiency and effectiveness of this model, it was first tested on Flowise, a low-code platform for AI workflows. After successful testing, the final model was deployed on Open WebUI, ensuring a user-friendly interface for generating dynamic brand narratives and viral campaign strategies.
+To assess the efficiency and effectiveness of this model, it was first tested on Flowise, a low-code platform for AI workflows. After successful testing, the final model was deployed on [Open WebUI - Tom & Jerry : Branding Maverick](https://openwebui.com/m/jasleen/tom--jerry-branding-maverick), ensuring a user-friendly interface for generating dynamic brand narratives and viral campaign strategies.
 
 ![Flowise](https://github.com/user-attachments/assets/42ebec24-6983-49b2-9684-1ce6745624f4)
 
